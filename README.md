@@ -1,4 +1,4 @@
-# jrhow2's Deej
+# jrhow2's Deej Build
 ## Description
 This is a repository to share my work on my first Deej build, which includes 1 rotary potentiometer for master volume, 5 slide potentiometers, 6 latching mute 
 buttons with LED indicators (one for each slider), and a 12-key macropad. This is primarily based on [miodec's fork](https://github.com/Miodec/deej), which 
