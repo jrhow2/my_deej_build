@@ -12,8 +12,11 @@ In this repository, I've included that CAD files for the enclosure produced in F
 ## Wokwi Cicuit design/code simulation
 [Wokwi.com](wokwi.com) was used for circuit design and siumlation of the Arduino Nano and code. The Wokwi simulation can be found [here](https://wokwi.com/projects/416743878244643841), and the .zip files exported from Wokwi can be found at [deej_jrhow2_wokwi.zip](deej_jrhow2_wokwi.zip).
 
+Note that since wokwi does not include latching buttons and because there was some difficulty with how I soldered my sliders in the final configuration, the code in wokwi does not exactly match the final code in the [provided .ino file](jrhow2s_deej.ino).
+
 ## Mechancal Design
-###
+### Fusion 360 design files
+The enclosure was designed in Fusion 360. 
 ### Part's list
 ### 3D-printed Keycaps
 
