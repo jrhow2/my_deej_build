@@ -20,6 +20,8 @@ The enclosure was designed in Fusion 360, and I've provided the [.f3d file](mech
 ## 3D printing
 Slicing was performed in [Orca Slicer](https://github.com/SoftFever/OrcaSlicer) and the models were printed on a BambuLab P1S with an AMS unit for multi-color printing. I have provided the [Orca Slicer project file](mechanical_design/orca-slicer_jrhow2's_deej.3mf) as well as the [.stls](mechanical_design/STLs) of all of the parts.
 
+To get the faux carbon fiber look on the top surface, I used [this textured plate](https://www.amazon.com/gp/product/B0CP5X3H2Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) purchased from Amazon. These kinds of plates work best with slightly increased bed temperature and decreased speed for the first layer or two.
+
 ### Part's list
 ### 3D-printed Keycaps
 
