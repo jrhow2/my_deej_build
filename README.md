@@ -9,6 +9,9 @@ programmable buttons past what would be achievable using the arduino nano's pins
 
 In this repository, I've included that CAD files for the enclosure produced in Fusion360, the PCB schematics and gerber files, the customized arduino sketch, and the autohotkey script.
 
+## Wokwi Cicuit design/code simulation
+[Wokwi.com](wokwi.com) was used for circuit design and siumlation of the Arduino Nano and code. The wokwi files are in the 
+
 ## Mechancal Design
 ###
 ### Part's list
