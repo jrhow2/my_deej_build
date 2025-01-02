@@ -14,9 +14,9 @@ In this repository, I've included that CAD files for the enclosure produced in F
 
 Note that since wokwi does not include latching buttons and because there was some difficulty with how I soldered my sliders in the final configuration, the code in wokwi does not exactly match the final code in the [provided .ino file](jrhow2s_deej.ino).
 
-## Mechancal Design
+## [Mechancal Design](mechanical_design)
 ### Fusion 360 design files
-All of the mechanical design files can be found in the [mechanical_design](mechanical_design) folder. The enclosure was designed in Fusion 360, and I've provided the [.f3d file](mechanical_design/jrhow2's_deej.f3d). 
+The enclosure was designed in Fusion 360, and I've provided the [.f3d file](mechanical_design/jrhow2's_deej.f3d). 
 ### Part's list
 ### 3D-printed Keycaps
 
