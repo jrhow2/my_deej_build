@@ -16,7 +16,10 @@ Note that since wokwi does not include latching buttons and because there was so
 
 ## [Mechancal Design](mechanical_design)
 ### Fusion 360 design files
-The enclosure was designed in Fusion 360, and I've provided the [.f3d file](mechanical_design/jrhow2's_deej.f3d). 
+The enclosure was designed in Fusion 360, and I've provided the [.f3d file](mechanical_design/jrhow2's_deej.f3d).
+## 3D printing
+Slicing was performed in [Orca Slicer](https://github.com/SoftFever/OrcaSlicer) and the models were printed on a BambuLab P1S with an AMS unit for multi-color printing. I have provided the [Orca Slicer project file](mechanical_design/jrhow2's_deej.3mf) as well as the [.stls](mechanical_design/STLs) of all of the parts.
+
 ### Part's list
 ### 3D-printed Keycaps
 
