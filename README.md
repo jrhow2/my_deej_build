@@ -16,7 +16,7 @@ Note that since wokwi does not include latching buttons and because there was so
 
 ## Mechancal Design
 ### Fusion 360 design files
-All of the mechanical design files can be found in the "Mechanical Design" folder. The enclosure was designed in Fusion 360, and I've provided the [.f3d file](Mechanical%Design/Jrhow2's%Deej.f3d). 
+All of the mechanical design files can be found in the "Mechanical Design" folder. The enclosure was designed in Fusion 360, and I've provided the [.f3d file](mechanical_design/jrhow2's_deej.f3d). 
 ### Part's list
 ### 3D-printed Keycaps
 
