@@ -41,7 +41,7 @@ I used [this parametric keycap generator](https://github.com/rsheldiii/KeyV2) wi
 I designed a keypad in KiCad. The PCB is very simple, just connecting the keyswitches together and including some contacts to solder on wires. The pcb files can be found [here](PCB/).
 
 ## Arduino Sketch
-As mentioned above, my sketch is modified from [miodec's fork](https://github.com/Miodec/deej) by adding support for mute buttons and a keypad. The sketch can be found [here](arduno/jrhow2_deej/).
+As mentioned above, my sketch is modified from [miodec's fork](https://github.com/Miodec/deej) by adding support for mute buttons and a keypad. The sketch can be found [here](arduino/jrhow2_deej/).
 
 ## Autohotkey script
 I used Autohotkey to take the simple keyboard events sent by the arduino sketch and use them to support slightly more complex actions, such as launching apps and a "rage quit" button (just presses alt+f4). In [my config file](config.yaml), I tell Deej to send values for keys that are not commonly used by windows (e.g. "browser home"). Autohotkey then reads these and performs the desired actions. The autohotkey script can be found [here](autohotkey/deej_keys.ahk).
