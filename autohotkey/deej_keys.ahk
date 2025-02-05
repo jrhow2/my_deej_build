@@ -50,35 +50,16 @@ else
     Run C:\Users\jrhow\Documents\Arduino\Deej_Soldered\WinStoreAppLinks\Phone Link.lnk
 Return
 
-;Launch_App1::
-;if WinExist("ahk_exe Spotify.exe")
-;    if WinActive("ahk_exe Spotify.exe")
-;     WinMinimize
-;    else
-;     WinActivate
-;else
-;    Run C:\Users\jrhow\Documents\Arduino\Deej_Soldered\WinStoreAppLinks\Spotify.lnk
-;Return
-
 Launch_App1::
-if WinExist("ahk_exe zotero.exe")
-    {
-    Send {f1}
-    }
-else
-    {
-    Run C:\Program Files\Zotero\zotero.exe
-    Sleep, 1000
-    if WinActive("ahk_exe zotero.exe")
-    {
+if WinExist("ahk_exe Spotify.exe")
+    if WinActive("ahk_exe Spotify.exe")
      WinMinimize
-     Sleep, 1000
-     Send {f1}
-    }
     else
-     Send {f1}
-    }
+     WinActivate
+else
+    Run C:\Users\jrhow\Documents\Arduino\Deej_Soldered\WinStoreAppLinks\Spotify.lnk
 Return
+
 
 Browser_Refresh::
 if WinExist("ahk_exe olk.exe")
