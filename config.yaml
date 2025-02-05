@@ -55,7 +55,7 @@ button_mapping:
 invert_sliders: true
 
 # settings for connecting to the arduino board
-com_port: COM5
+com_port: COM6
 baud_rate: 9600
 
 # adjust the amount of signal noise reduction depending on your hardware quality
