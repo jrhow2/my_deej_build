@@ -37,8 +37,8 @@ To get the faux carbon fiber look on the top surface, I used [this textured plat
 ### 3D-printed Keycaps
 I used [this parametric keycap generator](https://github.com/rsheldiii/KeyV2) with OpenSCAD to make flat keycaps for AMS printing with logos.
 
-
 ## PCB Design
+I designed a keypad in KiCad. The PCB is very simple, just connecting the keyswitches together and including some contacts to solder on wires. The pcb files can be found [here](PCB/).
 
 ## Arduino Sketch
 
